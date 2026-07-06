@@ -95,33 +95,7 @@ Week1/
 - Git
 - GitHub
 
----
 
-## Project Status
 
-✅ Week 1 Completed
 
-Future weeks will include:
 
-- ER Diagram
-- Database Normalization
-- SQL Table Creation
-- SQL Queries
-- Database Implementation
-- Reports
-
----
-
-## Author
-
-**Name:** Your Name
-
-**Course:** Database Management System
-
-**Project:** E-Commerce Order Management Database System
-
----
-
-## License
-
-This project is created for academic purposes only.
