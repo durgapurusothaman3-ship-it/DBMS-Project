@@ -1,4 +1,4 @@
-# E-Commerce Order Management Database System
+# JoyMart Order Management Database System
 
 ## Week 1 – Understanding the Business Problem
 
